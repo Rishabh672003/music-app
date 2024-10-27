@@ -35,7 +35,7 @@ git clone https://github.com/rishabh672003/music-app.git
 Navigate inside the directory and Install all the necessary dependencies:
 
 ```bash
-cd react-app-simple-music-app
+cd music-app
 
 # installing dependencies
 npm install
